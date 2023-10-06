@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emanuel Goldman</h1>
-<h3 align="center">A 3rd-year Computer Science studen, currently Seeking a Part-Time Software Engineer Job.</h3>
+<h1 align="left">Hi 👋, I'm Emanuel Goldman</h1>
+<h3 align="left">A 3rd-year Computer Science studen, currently Seeking a Part-Time Software Engineer Job.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
