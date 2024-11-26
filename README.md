@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋, I'm Emanuel Goldman</h1> 
 <h3 align="left">A Master's student specializing in Finance Data and a Technology Manager at FOA, driven by a passion for technology that makes a difference.</h3>
 <p>🎓 Education: Currently pursuing my Master's in Computer Science at Ben-Gurion University, with a BSc in Computer Science.</p>
+<p>
 💻 Current Projects:
 Developing data pipelines and infrastructure for economic research.
 Leading technical projects at FOA to combat antisemitism online.
+</p>
 <h3 align="left">Connect with me:</h3> <p align="left"> 
   <a href="https://www.linkedin.com/in/emanuel-goldman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel 
   goldman" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:
