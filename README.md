@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Emanuel Goldman</h1> 
 <h3 align="left">A Master's student specializing in Finance Data and a Technology Manager at FOA, driven by a passion for technology that makes a difference.</h3>
-<h5>🎓 Education: Currently pursuing my Master's in Computer Science at Ben-Gurion University, with a BSc in Computer Science.</h5>
+<p>🎓 Education: Currently pursuing my Master's in Computer Science at Ben-Gurion University, with a BSc in Computer Science.</p>
 💻 Current Projects:
 Developing data pipelines and infrastructure for economic research.
 Leading technical projects at FOA to combat antisemitism online.
