@@ -10,7 +10,7 @@ I work on applied machine learning and data engineering for financial datasets, 
 
 <p>
 🎓 <strong>Affiliation</strong><br>
-Ben-Gurion University — Computer Science (M.Sc. track)
+Ben-Gurion University Computer Science (M.Sc. track)
 </p>
 
 <p>
